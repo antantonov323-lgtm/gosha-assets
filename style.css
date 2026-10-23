@@ -3,7 +3,7 @@
 ───────────────────────────────────────────── */
 @font-face {
   font-family: 'HelveticaCY';
-  src: url('assets/fonts/helvetica_bold.otf') format('opentype');
+  src: url('https://cdn.jsdelivr.net/gh/antantonov323-lgtm/gosha-assets@main/assets/fonts/helvetica_bold.otf') format('opentype');
   font-weight: 700;
   font-style: normal;
   font-display: swap;

@@ -17,14 +17,14 @@ document.addEventListener('DOMContentLoaded', () => {
       title: 'COLLECTION 01',
       subtitle: 'URBAN MONO',
       count: '6 LOOKS',
-      heroImage: 'assets/lookbook/Collection 1 (1).jpg',
+      heroImage: 'https://cdn.jsdelivr.net/gh/antantonov323-lgtm/gosha-assets@main/assets/lookbook/Collection%201%20%281%29.jpg',
       items: [
-        { src: 'assets/lookbook/Collection 1 (1).jpg', title: 'LOOK 01' },
-        { src: 'assets/lookbook/Collection 1 (2).jpg', title: 'LOOK 02' },
-        { src: 'assets/lookbook/Collection 1 (3).jpg', title: 'LOOK 03' },
-        { src: 'assets/lookbook/Collection 1 (4).jpg', title: 'LOOK 04' },
-        { src: 'assets/lookbook/Collection 1 (5).jpg', title: 'LOOK 05' },
-        { src: 'assets/lookbook/Collection 1 (6).jpg', title: 'LOOK 06' }
+        { src: 'https://cdn.jsdelivr.net/gh/antantonov323-lgtm/gosha-assets@main/assets/lookbook/Collection%201%20%281%29.jpg', title: 'LOOK 01' },
+        { src: 'https://cdn.jsdelivr.net/gh/antantonov323-lgtm/gosha-assets@main/assets/lookbook/Collection%201%20%282%29.jpg', title: 'LOOK 02' },
+        { src: 'https://cdn.jsdelivr.net/gh/antantonov323-lgtm/gosha-assets@main/assets/lookbook/Collection%201%20%283%29.jpg', title: 'LOOK 03' },
+        { src: 'https://cdn.jsdelivr.net/gh/antantonov323-lgtm/gosha-assets@main/assets/lookbook/Collection%201%20%284%29.jpg', title: 'LOOK 04' },
+        { src: 'https://cdn.jsdelivr.net/gh/antantonov323-lgtm/gosha-assets@main/assets/lookbook/Collection%201%20%285%29.jpg', title: 'LOOK 05' },
+        { src: 'https://cdn.jsdelivr.net/gh/antantonov323-lgtm/gosha-assets@main/assets/lookbook/Collection%201%20%286%29.jpg', title: 'LOOK 06' }
       ]
     },
     'collection-2': {
@@ -32,17 +32,17 @@ document.addEventListener('DOMContentLoaded', () => {
       title: 'COLLECTION 02',
       subtitle: 'NIGHT NOIR',
       count: '9 LOOKS',
-      heroImage: 'assets/lookbook/collection 2 (1).jpg',
+      heroImage: 'https://cdn.jsdelivr.net/gh/antantonov323-lgtm/gosha-assets@main/assets/lookbook/collection%202%20%281%29.jpg',
       items: [
-        { src: 'assets/lookbook/collection 2 (1).jpg', title: 'LOOK 01' },
-        { src: 'assets/lookbook/collection 2 (2).jpg', title: 'LOOK 02' },
-        { src: 'assets/lookbook/collection 2 (3).jpg', title: 'LOOK 03' },
-        { src: 'assets/lookbook/collection 2 (4).jpg', title: 'LOOK 04' },
-        { src: 'assets/lookbook/collection 2 (5).jpg', title: 'LOOK 05' },
-        { src: 'assets/lookbook/collection 2 (6).jpg', title: 'LOOK 06' },
-        { src: 'assets/lookbook/collection 2 (7).jpg', title: 'LOOK 07' },
-        { src: 'assets/lookbook/collection 2 (8).jpg', title: 'LOOK 08', isWide: true },
-        { src: 'assets/lookbook/collection 2 (9).jpg', title: 'LOOK 09', isWide: true }
+        { src: 'https://cdn.jsdelivr.net/gh/antantonov323-lgtm/gosha-assets@main/assets/lookbook/collection%202%20%281%29.jpg', title: 'LOOK 01' },
+        { src: 'https://cdn.jsdelivr.net/gh/antantonov323-lgtm/gosha-assets@main/assets/lookbook/collection%202%20%282%29.jpg', title: 'LOOK 02' },
+        { src: 'https://cdn.jsdelivr.net/gh/antantonov323-lgtm/gosha-assets@main/assets/lookbook/collection%202%20%283%29.jpg', title: 'LOOK 03' },
+        { src: 'https://cdn.jsdelivr.net/gh/antantonov323-lgtm/gosha-assets@main/assets/lookbook/collection%202%20%284%29.jpg', title: 'LOOK 04' },
+        { src: 'https://cdn.jsdelivr.net/gh/antantonov323-lgtm/gosha-assets@main/assets/lookbook/collection%202%20%285%29.jpg', title: 'LOOK 05' },
+        { src: 'https://cdn.jsdelivr.net/gh/antantonov323-lgtm/gosha-assets@main/assets/lookbook/collection%202%20%286%29.jpg', title: 'LOOK 06' },
+        { src: 'https://cdn.jsdelivr.net/gh/antantonov323-lgtm/gosha-assets@main/assets/lookbook/collection%202%20%287%29.jpg', title: 'LOOK 07' },
+        { src: 'https://cdn.jsdelivr.net/gh/antantonov323-lgtm/gosha-assets@main/assets/lookbook/collection%202%20%288%29.jpg', title: 'LOOK 08', isWide: true },
+        { src: 'https://cdn.jsdelivr.net/gh/antantonov323-lgtm/gosha-assets@main/assets/lookbook/collection%202%20%289%29.jpg', title: 'LOOK 09', isWide: true }
       ]
     }
   };

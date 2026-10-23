@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   if (!products.length) {
     try {
-      const res = await fetch('data/products.json');
+      const res = await fetch('https://cdn.jsdelivr.net/gh/antantonov323-lgtm/gosha-assets@main/data/products.json');
       if (res.ok) {
         const json = await res.json();
         if (Array.isArray(json) && json.length > 0) {
